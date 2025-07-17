@@ -24,3 +24,10 @@ The Jupyter Notebook can be found in the same repo:
     <td><a href="https://www.python.org/" target="_blank"><img src="https://www.python.org/static/community_logos/python-logo.png" width="60" alt="Python"/></a></td>
   </tr>
 </table>
+
+### What I Learned
+
+- How Transformer architectures are adapted from NLP to vision by treating images as sequences of patches.
+- The role of multi-headed self-attention in capturing both local and global image features.
+- Differences and advantages of Vision Transformers over traditional CNNs in certain tasks.
+- Practical experience implementing ViT-based image classification.
